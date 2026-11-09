@@ -59,10 +59,10 @@ Below is a comparison of leading cloud-hosted commercial support ticket and case
 
 ## 🟩 Open-Source Software 🔓
 
-Self-hosted, open-source ticket and case management systems ordered by GitHub star count (descending) ⭐. These platforms deliver complete data sovereignty 🔒, custom extendability 🧩, and zero per-seat licensing penalties 💸.
+Self-hosted, open-source ticket and case management systems ordered by GitHub Stars_Count (descending) ⭐. These platforms deliver complete data sovereignty 🔒, custom extendability 🧩, and zero per-seat licensing penalties 💸.
 
 ### 1. Chatwoot 💬
-[![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)
 - **Repository:** [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) 🔗
 - **Tech Stack:** Ruby on Rails / Vue.js / PostgreSQL / Redis ⚡
 - **License:** AGPL-3.0 📜
@@ -70,7 +70,7 @@ Self-hosted, open-source ticket and case management systems ordered by GitHub st
 - **Best For:** Organizations seeking a modern Intercom/Zendesk alternative with multi-channel messaging and live chat capabilities.
 
 ### 2. Zammad 🦁
-[![GitHub stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)
 - **Repository:** [zammad/zammad](https://github.com/zammad/zammad) 🔗
 - **Tech Stack:** Ruby on Rails / PostgreSQL / Elasticsearch ⚡
 - **License:** AGPL-3.0 📜
@@ -78,7 +78,7 @@ Self-hosted, open-source ticket and case management systems ordered by GitHub st
 - **Best For:** Teams wanting a high-performance web ticketing platform with granular access controls and enterprise audit compliance.
 
 ### 3. FreeScout 🕊️
-[![GitHub stars](https://img.shields.io/github/stars/freescout-help-desk/freescout?style=social&color=white)](https://github.com/freescout-help-desk/freescout/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/freescout-help-desk/freescout?style=social&color=white)](https://github.com/freescout-help-desk/freescout/stargazers)
 - **Repository:** [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) 🔗
 - **Tech Stack:** PHP / Laravel / MySQL ⚡
 - **License:** AGPL-3.0 📜
@@ -86,7 +86,7 @@ Self-hosted, open-source ticket and case management systems ordered by GitHub st
 - **Best For:** Small-to-medium teams looking for a lightweight shared mailbox with seamless email forwarding and modular add-ons.
 
 ### 4. osTicket 🎟️
-[![GitHub stars](https://img.shields.io/github/stars/osTicket/osTicket?style=social&color=white)](https://github.com/osTicket/osTicket/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/osTicket/osTicket?style=social&color=white)](https://github.com/osTicket/osTicket/stargazers)
 - **Repository:** [osTicket/osTicket](https://github.com/osTicket/osTicket) 🔗
 - **Tech Stack:** PHP / MySQL ⚡
 - **License:** GPL-2.0 📜
@@ -94,7 +94,7 @@ Self-hosted, open-source ticket and case management systems ordered by GitHub st
 - **Best For:** Traditional IT departments and educational institutions needing a proven, reliable, and widely supported helpdesk.
 
 ### 5. Frappe Helpdesk 📑
-[![GitHub stars](https://img.shields.io/github/stars/frappe/helpdesk?style=social&color=white)](https://github.com/frappe/helpdesk/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/frappe/helpdesk?style=social&color=white)](https://github.com/frappe/helpdesk/stargazers)
 - **Repository:** [frappe/helpdesk](https://github.com/frappe/helpdesk) 🔗
 - **Tech Stack:** Python / Frappe Framework / Vue 3 / Tailwind CSS ⚡
 - **License:** AGPL-3.0 📜
@@ -102,7 +102,7 @@ Self-hosted, open-source ticket and case management systems ordered by GitHub st
 - **Best For:** Companies already using or adopting ERPNext and the Frappe ecosystem for unified business management.
 
 ### 6. Peppermint 🍬
-[![GitHub stars](https://img.shields.io/github/stars/Peppermint-Lab/peppermint?style=social&color=white)](https://github.com/Peppermint-Lab/peppermint/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/Peppermint-Lab/peppermint?style=social&color=white)](https://github.com/Peppermint-Lab/peppermint/stargazers)
 - **Repository:** [Peppermint-Lab/peppermint](https://github.com/Peppermint-Lab/peppermint) 🔗
 - **Tech Stack:** Node.js / Express / React / Prisma / SQLite or PostgreSQL ⚡
 - **License:** MIT 📜
@@ -110,7 +110,7 @@ Self-hosted, open-source ticket and case management systems ordered by GitHub st
 - **Best For:** Developers and small teams wanting a clean, snappy, minimalist ticket tracker without enterprise bloat.
 
 ### 7. Libredesk 📦
-[![GitHub stars](https://img.shields.io/github/stars/abhinavxd/libredesk?style=social&color=white)](https://github.com/abhinavxd/libredesk/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/abhinavxd/libredesk?style=social&color=white)](https://github.com/abhinavxd/libredesk/stargazers)
 - **Repository:** [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk) 🔗
 - **Tech Stack:** Go / PostgreSQL / Modern Web Components ⚡
 - **License:** AGPL-3.0 📜
@@ -118,7 +118,7 @@ Self-hosted, open-source ticket and case management systems ordered by GitHub st
 - **Best For:** DevOps and sysadmins wanting a standalone, lightning-fast Go-based support desk.
 
 ### 8. Helpy 🚑
-[![GitHub stars](https://img.shields.io/github/stars/helpyio/helpy?style=social&color=white)](https://github.com/helpyio/helpy/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/helpyio/helpy?style=social&color=white)](https://github.com/helpyio/helpy/stargazers)
 - **Repository:** [helpyio/helpy](https://github.com/helpyio/helpy) 🔗
 - **Tech Stack:** Ruby on Rails / PostgreSQL ⚡
 - **License:** MIT 📜
@@ -126,7 +126,7 @@ Self-hosted, open-source ticket and case management systems ordered by GitHub st
 - **Best For:** SaaS startups needing combined public forums, knowledge base, and helpdesk ticketing under an MIT license.
 
 ### 9. Trudesk 📊
-[![GitHub stars](https://img.shields.io/github/stars/polonel/trudesk?style=social&color=white)](https://github.com/polonel/trudesk)
+[![GitHub_Stars](https://img.shields.io/github/stars/polonel/trudesk?style=social&color=white)](https://github.com/polonel/trudesk)
 - **Repository:** [polonel/trudesk](https://github.com/polonel/trudesk) 🔗
 - **Tech Stack:** Node.js / MongoDB / Elasticsearch ⚡
 - **License:** Apache-2.0 📜
@@ -134,7 +134,7 @@ Self-hosted, open-source ticket and case management systems ordered by GitHub st
 - **Best For:** Teams looking for real-time ticket notification streams built with modern JavaScript stacks.
 
 ### 10. ITFlow 🛠️
-[![GitHub stars](https://img.shields.io/github/stars/itflow-org/itflow?style=social&color=white)](https://github.com/itflow-org/itflow/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/itflow-org/itflow?style=social&color=white)](https://github.com/itflow-org/itflow/stargazers)
 - **Repository:** [itflow-org/itflow](https://github.com/itflow-org/itflow) 🔗
 - **Tech Stack:** PHP / MySQL ⚡
 - **License:** GPL-3.0 📜
@@ -142,7 +142,7 @@ Self-hosted, open-source ticket and case management systems ordered by GitHub st
 - **Best For:** MSPs and IT service providers wanting to combine password/asset documentation, ticket dispatching, and client invoicing in one system.
 
 ### 11. OpenSupports 🌟
-[![GitHub stars](https://img.shields.io/github/stars/opensupports/opensupports?style=social&color=white)](https://github.com/opensupports/opensupports/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/opensupports/opensupports?style=social&color=white)](https://github.com/opensupports/opensupports/stargazers)
 - **Repository:** [opensupports/opensupports](https://github.com/opensupports/opensupports) 🔗
 - **Tech Stack:** PHP / React / MySQL ⚡
 - **License:** GPL-3.0 📜
@@ -150,7 +150,7 @@ Self-hosted, open-source ticket and case management systems ordered by GitHub st
 - **Best For:** Small organizations wanting a decoupled React-based helpdesk with simple self-hosted requirements.
 
 ### 12. Znuny 🏛️
-[![GitHub stars](https://img.shields.io/github/stars/znuny/Znuny?style=social&color=white)](https://github.com/znuny/Znuny/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/znuny/Znuny?style=social&color=white)](https://github.com/znuny/Znuny/stargazers)
 - **Repository:** [znuny/Znuny](https://github.com/znuny/Znuny) 🔗
 - **Tech Stack:** Perl / MySQL / PostgreSQL / MariaDB ⚡
 - **License:** GPL-3.0 📜
@@ -158,7 +158,7 @@ Self-hosted, open-source ticket and case management systems ordered by GitHub st
 - **Best For:** IT operations and enterprise service desks requiring proven ITIL/ITSM alignment and high ticket volumes.
 
 ### 13. OTOBO 🦉
-[![GitHub stars](https://img.shields.io/github/stars/RotherOSS/otobo?style=social&color=white)](https://github.com/RotherOSS/otobo/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/RotherOSS/otobo?style=social&color=white)](https://github.com/RotherOSS/otobo/stargazers)
 - **Repository:** [RotherOSS/otobo](https://github.com/RotherOSS/otobo) 🔗
 - **Tech Stack:** Perl / MySQL / MariaDB / PostgreSQL / Oracle ⚡
 - **License:** GPL-3.0 📜
